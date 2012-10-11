@@ -10,7 +10,7 @@ A gui for SuperCollider
 Installation
 ------------
 
-  go get github.com/metakeule/circles
+    go get github.com/metakeule/circles
 
 
 Copyright
