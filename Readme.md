@@ -17,8 +17,8 @@ Contribution
 ------------
 
 The code is organized according to the principles of Uncle Bob Martin's "Clean Architecture",
-see "The Clean Architecture"(http://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html) and
-"Applying The Clean Architecture To Go Applications"(http://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/).
+see [The Clean Architecture](http://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html) and
+[Applying The Clean Architecture To Go Applications](http://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/).
 
 Copyright
 ----------
