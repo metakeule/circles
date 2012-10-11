@@ -1,7 +1,7 @@
 circles
 ===================
 
-A gui for SuperCollider
+A GUI for SuperCollider
 
 [![Build Status](https://secure.travis-ci.org/metakeule/circles.png)](https://secure.travis-ci.org/metakeule/circles)
 
