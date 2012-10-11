@@ -16,13 +16,12 @@ Installation
 Contribution
 ------------
 
-The code is organized according to the principles of Uncle Bob Martin's "Clean Architecture",
-see [The Clean Architecture](http://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html) and
-[Applying The Clean Architecture To Go Applications](http://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/).
+The code is organized according to the principles of Uncle Bob Martin's [Clean Architecture](http://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html) (see also
+[Applying The Clean Architecture To Go Applications](http://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/)).
 
 Copyright
 ----------
 
-Copyright (c) 2012 Marc Rene Arns. See LICENSE.txt for
+Copyright (c) 2012 Marc Rene Arns. See [LICENSE.txt](https://github.com/metakeule/circles/raw/master/LICENSE.txt) for
 further details.
 
